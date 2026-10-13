@@ -1,0 +1,43 @@
+ADA RIVERS · CREATIVE DEVELOPER
+hello@adarivers.dev · Remote, UTC friendly
+Portfolio: https://example.com · GitHub: https://github.com
+
+SUMMARY
+Creative developer with 4 years of experience building playful,
+performant web interfaces. React on the front, Node on the back.
+Care about motion, clarity and shipping.
+
+EXPERIENCE
+Studio North · Creative Developer · 2023 to now
+  Lead interactive builds for launch pages and product tours.
+  Own motion language and performance budgets.
+
+Loopwork · Frontend Engineer · 2021 to 2023
+  Shipped dashboard suite used daily by 20k makers.
+  Cut load time by half with code splitting and caching.
+
+Freelance · UI Engineer · 2020 to 2021
+  Built sites and tiny tools for founders.
+  Scoped fast, polished last, documented everything.
+
+SKILLS
+  Frontend: React, TypeScript, Tailwind, Framer Motion, Canvas
+  Backend: Node, Postgres, Supabase, REST, Auth
+  Craft: Motion design, Prototyping, Accessibility, Perf budgets
+
+SELECTED WORK
+  Pulseboard · Realtime analytics dashboard · 2025
+  Typeflux · Kinetic type playground · 2025
+  Orbital UI · Component kit · 2024
+  Snackmap · Food stall map PWA · 2024
+
+OPEN SOURCE
+  motion bits · Spring presets · 2.1k stars
+  bento blocks · Layout blocks · 980 stars
+
+EDUCATION
+  Self taught plus community driven learning.
+  Talks and posts: 12 and counting.
+
+REFERENCES
+  Available on request.
